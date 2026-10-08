@@ -16,3 +16,5 @@ I'm Batuhan, an iOS and full-stack engineer. I build mobile and web products, an
 <img src="swift.png" alt="Swift" height="32"> <img src="xcode.png" alt="Xcode" height="32">
 
 📫 [LinkedIn](https://www.linkedin.com/in/ensar-batuhan/)
+
+...
