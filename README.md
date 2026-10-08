@@ -4,7 +4,7 @@ I'm Batuhan, an iOS and full-stack engineer. I build mobile and web products, an
 
 🛠️ What I work on:
 - iOS apps with SwiftUI and Swift Concurrency
-- Web and mobile with Next.js, React Native, Expo, Node.js, TypeScript, PostgreSQL, Prisma
+- Web and mobile with Next.js, React Native, Expo, Node.js, TypeScript, PostgreSQL, and Prisma
 - MCP servers and agent tooling: device automation, build and release pipelines, graph-indexed code exploration
 - Multi-agent orchestration across AI providers with hook-enforced policy and model routing
 - Design-to-production loops: implement from a design frame, pixel-diff on device, fix, test, ship
