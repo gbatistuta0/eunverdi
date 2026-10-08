@@ -9,7 +9,7 @@ I'm Batuhan, an iOS and full-stack engineer. I build mobile and web products, an
 - Multi-agent orchestration across AI providers with hook-enforced policy and model routing
 - Design-to-production loops: implement from a design frame, pixel-diff on device, fix, test, ship
 - Persistent agent memory across sessions and machines
-- Verification over trust: build, runtime and real-device evidence are the gates
+- Verification over trust: build, runtime, and real-device evidence are the gates
 
 🧰 Daily tools:
 
